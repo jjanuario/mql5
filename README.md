@@ -12,10 +12,10 @@
 ### Lista com alguns dados abertos do Brasil
 Tipo          | URL
 ------------- | -----------------------------------
-Dados abertos | https://dadosabertos.camara.leg.br
-Dados abertos | http://dadosabertos.cl.df.gov.br
-Dados abertos | http://dados.gov.br
-Dados abertos | http://dados.df.gov.br
+Dunnigan      | Dunnigan.mq5
+Envelopes     | Envelopes.mq5
+MediaMovel    | MediaMovel.mq5
+ValorMedio    | ValorMedio.mq5
 Dados abertos | http://brasil.io
 Dados abertos | http://patiodigital.prefeitura.sp.gov.br
 
