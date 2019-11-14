@@ -14,8 +14,8 @@ Tipo          | URL
 ------------- | -----------------------------------
 Dunnigan      | [Dunnigan](/Dunnigan.mq5)
 Envelopes     | [Envelopes](Envelopes.mq5)
-MediaMovel    | [MediaMovel](MediaMovel.mq5)
-ValorMedio    | [ValorMedio](ValorMedio.mq5)
+MediaMovel    | [Media Movel](MediaMovel.mq5)
+ValorMedio    | [Valor Medio](ValorMedio.mq5)
 Dados abertos | http://brasil.io
 Dados abertos | http://patiodigital.prefeitura.sp.gov.br
 
