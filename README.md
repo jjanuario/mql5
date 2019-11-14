@@ -1,5 +1,4 @@
-# mql5
-Indicadores para analise técnica e bots para investimento utilizando MetaTrade5
+# Indicadores para analise técnica e bots para investimento utilizando MetaTrade5
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
