@@ -16,7 +16,7 @@ Dunnigan      | [Dunnigan](/Dunnigan.mq5)
 Envelopes     | [Envelopes](Envelopes.mq5)
 MediaMovel    | [Media Movel](MediaMovel.mq5)
 ValorMedio    | [Valor Medio](ValorMedio.mq5)
-
+--------------|------------------------------------
 
 
 <!-- Markdown link & img dfn's -->
