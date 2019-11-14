@@ -12,7 +12,7 @@
 ### Lista dos indicadores do repositorio
 Tipo          | URL
 ------------- | -----------------------------------
-Dunnigan      | ![](Dunnigan.mq5)
+Dunnigan      | ![](/Dunnigan.mq5)
 Envelopes     | Envelopes.mq5
 MediaMovel    | MediaMovel.mq5
 ValorMedio    | ValorMedio.mq5
