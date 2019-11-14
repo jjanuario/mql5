@@ -9,10 +9,10 @@
   <img width="517" height="273" src="img/downjones.png">
 </p>
 
-### Lista com alguns dados abertos do Brasil
+### Lista dos indicadores do repositorio
 Tipo          | URL
 ------------- | -----------------------------------
-Dunnigan      | Dunnigan.mq5
+Dunnigan      | [!]Dunnigan.mq5
 Envelopes     | Envelopes.mq5
 MediaMovel    | MediaMovel.mq5
 ValorMedio    | ValorMedio.mq5
